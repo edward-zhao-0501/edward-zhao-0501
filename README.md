@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward-zhao-0501)
-<div align="center"> <img src="(https://metrics.lecoq.io/insights/edward-zhao-0501)"> </div>
+![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
